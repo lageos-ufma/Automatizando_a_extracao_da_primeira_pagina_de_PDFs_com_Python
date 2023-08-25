@@ -1,0 +1,1 @@
+# Automatizando_a_extracao_da_primeira_pagina_de_PDFs_com_Python
